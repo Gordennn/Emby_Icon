@@ -1,0 +1,17 @@
+{
+"name":"Emby Icon", 
+"description":"图标按照服名或群名命名。", 
+"icons":
+    [
+	{"name":"AWA", "url":"https://raw.githubusercontent.com/Gordennn/Emby_Icon/refs/heads/main/Icon/AWA.png"},
+	{"name":"HKA", "url":"https://raw.githubusercontent.com/Gordennn/Emby_Icon/refs/heads/main/Icon/HKA.png"},
+	{"name":"JMS", "url":"https://raw.githubusercontent.com/Gordennn/Emby_Icon/refs/heads/main/Icon/JMS.png"},
+	{"name":"July", "url":"https://raw.githubusercontent.com/Gordennn/Emby_Icon/refs/heads/main/Icon/July.png"},
+	{"name":"Nebula", "url":"https://raw.githubusercontent.com/Gordennn/Emby_Icon/refs/heads/main/Icon/Nebula.png"},
+	{"name":"Peach", "url":"https://raw.githubusercontent.com/Gordennn/Emby_Icon/refs/heads/main/Icon/Peach.png"},
+	{"name":"比比", "url":"https://raw.githubusercontent.com/Gordennn/Emby_Icon/refs/heads/main/Icon/比比.png"},
+	{"name":"纸片人", "url":"https://raw.githubusercontent.com/Gordennn/Emby_Icon/refs/heads/main/Icon/纸片人.png"},
+	{"name":"起点站", "url":"https://raw.githubusercontent.com/Gordennn/Emby_Icon/refs/heads/main/Icon/起点站.png"},
+	{"name":"非越", "url":"https://raw.githubusercontent.com/Gordennn/Emby_Icon/refs/heads/main/Icon/非越.png"}
+    ]
+}
